@@ -9,13 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics1-Csharp", "Generic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genererics2-Csharp", "Genererics2-Csharp\Genererics2-Csharp.csproj", "{807E64C8-654E-4A40-A29B-A29C4219C6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCodeEquals1", "HashCodeEquals1\HashCodeEquals1.csproj", "{151D066B-A231-43E7-B302-B25B59C2028D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashCodeEquals1", "HashCodeEquals1\HashCodeEquals1.csproj", "{151D066B-A231-43E7-B302-B25B59C2028D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetSortedSet1", "HashSetSortedSet1\HashSetSortedSet1.csproj", "{F099B4F4-70FF-4BA9-855F-7033BB2F2979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSetSortedSet1", "HashSetSortedSet1\HashSetSortedSet1.csproj", "{F099B4F4-70FF-4BA9-855F-7033BB2F2979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSortedSet2", "HashSortedSet2\HashSortedSet2.csproj", "{FE58D23B-2A04-4538-BDD8-69892E77E83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSortedSet2", "HashSortedSet2\HashSortedSet2.csproj", "{FE58D23B-2A04-4538-BDD8-69892E77E83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet3", "HashSet3\HashSet3.csproj", "{8CC5CEB6-4AE2-4A6B-B817-FB91E9710D33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSet3", "HashSet3\HashSet3.csproj", "{8CC5CEB6-4AE2-4A6B-B817-FB91E9710D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set1CsharpPratice", "Set1CsharpPratice\Set1CsharpPratice.csproj", "{B701BF85-FDA7-4C63-86B6-3B2BE590E151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set2CsharpPratice", "Set2CsharpPratice\Set2CsharpPratice.csproj", "{726B85D7-A695-4E9A-8935-4BD89B7F24DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionarySortedDic1", "DictionarySortedDic1\DictionarySortedDic1.csproj", "{0ADA3D03-E098-49DE-A64F-BB6701F6EC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPratice1", "DictionaryPratice1\DictionaryPratice1.csproj", "{DAB845B9-52F0-42DA-ABEE-F66336B43243}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{8CC5CEB6-4AE2-4A6B-B817-FB91E9710D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CC5CEB6-4AE2-4A6B-B817-FB91E9710D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CC5CEB6-4AE2-4A6B-B817-FB91E9710D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B701BF85-FDA7-4C63-86B6-3B2BE590E151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B701BF85-FDA7-4C63-86B6-3B2BE590E151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B701BF85-FDA7-4C63-86B6-3B2BE590E151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B701BF85-FDA7-4C63-86B6-3B2BE590E151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726B85D7-A695-4E9A-8935-4BD89B7F24DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726B85D7-A695-4E9A-8935-4BD89B7F24DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726B85D7-A695-4E9A-8935-4BD89B7F24DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726B85D7-A695-4E9A-8935-4BD89B7F24DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADA3D03-E098-49DE-A64F-BB6701F6EC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADA3D03-E098-49DE-A64F-BB6701F6EC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADA3D03-E098-49DE-A64F-BB6701F6EC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADA3D03-E098-49DE-A64F-BB6701F6EC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB845B9-52F0-42DA-ABEE-F66336B43243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB845B9-52F0-42DA-ABEE-F66336B43243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB845B9-52F0-42DA-ABEE-F66336B43243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB845B9-52F0-42DA-ABEE-F66336B43243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
